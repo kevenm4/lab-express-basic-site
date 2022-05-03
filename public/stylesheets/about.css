@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    margin: 0;
+}
+
+.text {
+    padding: 10px;
+    font-size: 25px;
+}
+
+.about {
+    align-items: center;
+    padding: 100px;
+    color: white;
+}
+
+.phases {
+    width: 700px;
+    height: auto;
+}

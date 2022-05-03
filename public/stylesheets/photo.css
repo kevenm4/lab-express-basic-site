@@ -1,0 +1,17 @@
+.slides {
+    width: 800px;
+    height: auto;
+    justify-content: center;
+    display: flex;
+    margin-left: 200px;
+}
+
+body {
+    background-color: black;
+}
+
+.crescent {
+    justify-content: center;
+    width: 800px;
+    height: 500px;
+}
